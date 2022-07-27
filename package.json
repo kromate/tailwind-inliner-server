@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-     "build": "tsc",
     "dev": "nodemon",
-    "start": "ts-node ./src/server"
+    "start": "node ./src/server"
   },
   "dependencies": {
     "css-inline": "^0.8.1",
