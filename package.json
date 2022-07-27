@@ -6,7 +6,7 @@
   "scripts": {
      "build": "tsc",
     "dev": "nodemon",
-    "start": "ts-node ./index"
+    "start": "ts-node ./src/server"
   },
   "dependencies": {
     "css-inline": "^0.8.1",
